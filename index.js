@@ -88,7 +88,7 @@ if(sleepTime == hours)
 {
     document.getElementsByClassName("b")[0].innerText ="GOOD NIGHT !!";
     document.getElementsByClassName("e")[0].innerText ="CLOSE YOUR EYES AND GO TO SLEEP";
-    document.getElementById("f").src="component2.jpg";
+    document.getElementById("f").src="Component2.jpg";
 }
 
 
